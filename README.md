@@ -5,6 +5,8 @@ Author: {FirstName LastName} [{UA Email}]
 Course: CS433 
 Date: Feb. [16], 2023
 
+**The sample video is just a demo, please read the instructions on Overleaf carefully to implement your code.
+
 **PLEASE UPDATE THIS README TO INCLUDE:**
 * a text description of how to run your program, 
 * document any idiosyncrasies, behaviors, or bugs of note that you want us to be aware of when grading, and
@@ -18,8 +20,6 @@ Description:
 
 Included files (**PLEASE ADD/UPDATE THIS LIST**):
 * images/       -- a folder with a collection of images to test code
-
-** The video is just a demo, please read the instructions on Overleaf carefully to implement your code
 
 
 **PLEASE PROVIDE ANY ATTRIBUTION HERE**
