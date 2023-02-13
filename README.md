@@ -19,7 +19,11 @@ Description:
 
 
 Included files (**PLEASE ADD/UPDATE THIS LIST**):
-* images/       -- a folder with a collection of images to test code
+* images -- a folder with a collection of images to test code
+* index.html -- a sample skeleton html file with a canvas
+* a02.js -- a sample skeletion javascript file for functionality
+* hdr.js -- a javascript library for parsing HDR images, [courtesy of Martin Ignac](https://github.com/vorg/parse-hdr)
+* FileSaver.js -- a javascript library for saving Blob. Useful for saving PPM files.
 
 
 **PLEASE PROVIDE ANY ATTRIBUTION HERE**
