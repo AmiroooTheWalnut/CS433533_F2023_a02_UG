@@ -3,7 +3,7 @@ Template code for A02UG
 
 Author: {FirstName LastName} [{UA Email}]  
 Course: CS433 
-Date: Feb. [16], 2022
+Date: Feb. [16], 2023
 
 **PLEASE UPDATE THIS README TO INCLUDE:**
 * a text description of how to run your program, 
@@ -18,6 +18,8 @@ Description:
 
 Included files (**PLEASE ADD/UPDATE THIS LIST**):
 * images/       -- a folder with a collection of images to test code
+
+** The video is just a demo, please read the instructions on Overleaf carefully to implement your code
 
 
 **PLEASE PROVIDE ANY ATTRIBUTION HERE**
